@@ -1,0 +1,12 @@
+﻿@model List<SEDC.PizzaApp.Models.Domain.Orders>
+
+<h2>Details:</h2>
+
+@for (int i = 0; i < Model.Count(); i++)
+{
+    <h5>Orders @i</h5>
+    <p>Contact Name: @Model[i].ContactName </p>
+    <p>Type of Pizza: @Model[i].TypeofPizza</p>
+    <p>Municipality: @Model[i].Municipality</p>
+    <p>Phone: @Model[i].Phone</p>
+}
