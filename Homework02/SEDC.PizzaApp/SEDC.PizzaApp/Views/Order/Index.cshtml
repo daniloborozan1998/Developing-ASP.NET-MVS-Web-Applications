@@ -1,0 +1,24 @@
+﻿@using SEDC.PizzaApp.Models.ViewModels
+@model List<OrderListViewModel> 
+
+<h2>List of orders:</h2>
+
+@{ 
+
+    foreach(OrderListViewModel orderModel in Model)
+    {
+        <p>Pizza name: @orderModel.PizzaName</p>
+        <p>User: @orderModel.UserFullName </p>
+        <p>Address: @orderModel.UserAddress</p>
+    }
+
+}
+
+<h4>@ViewData["Message"]</h4>
+<h5>@ViewData["Date"]</h5>
+
+@*<h5>@ViewData["FirstUser"].FirstName</h5>*@
+@*<h5>@((SEDC.PizzaApp.Models.Domain.User)ViewData["FirstUser"]).FirstName</h5>*@
+
+
+
