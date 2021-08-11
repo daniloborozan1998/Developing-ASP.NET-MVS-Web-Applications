@@ -15,7 +15,7 @@ namespace SEDC.PizzaApp.Controllers
             return View(ordersList);
         }
 
-        [Route("Details/{id?}")]
+        [Route("Order/Details/{id?}")]
         public IActionResult Details(int? id)
         {
             if (id == null)
