@@ -1,0 +1,30 @@
+﻿
+@model OrderDetailsViewModel
+
+<partial name="~/Views/Shared/Partials/_OrderGreetingPartial.cshtml" />
+
+<h2>Order details:</h2>
+<h4>@ViewBag.Message</h4>
+
+<p>Pizza name: @Model.PizzaName</p>
+<p>User: @Model.UserFullName</p>
+<p>Payment method: @Model.PaymentMethod</p>
+<p>Order price: @Model.Price DEN </p>
+
+<h4>The first user in our app is: @ViewBag.User.FirstName</h4>
+
+<partial name="~/Views/Shared/Partials/_OrderDetailsPartial.cshtml" for="@Model" />
+
+<h4>The first user in our app is: @ViewBag.User.FirstName</h4>
+
+
+@if (Model.Delivered)
+{
+    <p>The order is delivered</p>
+}
+else
+{
+    <p>The order was not delivered</p>
+
+}
+

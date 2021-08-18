@@ -1,0 +1,13 @@
+﻿<title>Pizza - @ViewData["Title"]</title> 
+
+
+@model List<PizzaDetailsViewModel>
+
+<h2>These are our pizzas:</h2>
+
+@for (int i = 0; i < Model.Count(); i++)
+{
+    <partial name="~/Views/Shared/Partials/_PizzaDetailsPartial.cshtml" for="@Model[i]" />
+    
+
+}

@@ -1,0 +1,6 @@
+﻿@model List<UserDetailsViewModel>
+<h2>List of users:</h2>
+@foreach(UserDetailsViewModel user in Model)
+{
+    <p>@user.FullName</p>
+}
