@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PL1HlZrfDUNJryfclPW3925IUNka4MMpD0WvKv40RhyK001arPixpkNNAI1QFgsxGMqloBIUkGSZtxNxeDXWsg==",
+  "dgSpecHash": "AEE7BAZIdxVbC2Tc7hUi6MIDk52qWt/dAxRRQxDyiDgQPR6IM8NOR/y1YJNyeIoy1hSgErGW9yi0787HQSQlFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework04\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework04\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
