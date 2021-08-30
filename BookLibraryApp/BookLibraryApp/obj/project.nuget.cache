@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rUohpfck0hPxfdwtoewE5ZvAxHgX5/yqyeQVgP4Sn8Zte1qU6UXuLyN27q7gkIFIAB2nB2LWwkDz/9EhK9DF/g==",
+  "dgSpecHash": "4z5CAH4Z8cXXcst+vsfZAF/HZPt9Sdu4TSI6TnUi9Fd5cs9CH13P/uCp8vlOEKRnoygeBtSy6KwhFbOpkIIYFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danilo Borozan\\.nuget\\packages\\bootstrap.less\\3.4.1\\bootstrap.less.3.4.1.nupkg.sha512",
     "C:\\Users\\Danilo Borozan\\.nuget\\packages\\bootstrap.v3.datetimepicker\\4.17.49\\bootstrap.v3.datetimepicker.4.17.49.nupkg.sha512",

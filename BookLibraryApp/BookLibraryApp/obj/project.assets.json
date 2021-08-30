@@ -1059,11 +1059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
       "projectName": "BookLibraryApp",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp\\BookLibraryApp.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1084,14 +1084,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Helpers\\BookLibraryApp.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Helpers\\BookLibraryApp.Helpers.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Helpers\\BookLibraryApp.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Helpers\\BookLibraryApp.Helpers.csproj"
             },
-            "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Services\\BookLibraryApp.Services.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Services\\BookLibraryApp.Services.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Services\\BookLibraryApp.Services.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Services\\BookLibraryApp.Services.csproj"
             },
-            "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.ViewModels\\BookLibraryApp.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.ViewModels\\BookLibraryApp.ViewModels.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.ViewModels\\BookLibraryApp.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.ViewModels\\BookLibraryApp.ViewModels.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrboPQTZf5ZjoDHpFInDWHRNdbtdT96uuxCu5DAaSj1HFB+CK41ZDXLdnZDXO/yjtJ2VUTXeWqOcIVgZb1I0sg==",
+  "dgSpecHash": "FMbBqOA7v6RwR+dnJYLGvjoMxhSY1O8Sl3E3uiEWqfyZ2cjt2hjxwvvlCaeIFjWyuHr69WbPfiIM2tYmICfMEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

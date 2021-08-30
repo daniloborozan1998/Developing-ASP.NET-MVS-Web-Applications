@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+uoM+tqiiXCiMdP3RKUj7UQBJYiR3bRk61FDc018E6DLi+P4HsDcEI/HWSR8jesumEFBoBp7HOfBDzwqLF4kQ==",
+  "dgSpecHash": "AIlPe6yQQn6Bzav6xT1SwrA5XtGsqu50iOSIcSfGuMrpcpBHVq5DN5FYL1uJVL1CMGyUI7P0l9OXAeq/TJFF1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

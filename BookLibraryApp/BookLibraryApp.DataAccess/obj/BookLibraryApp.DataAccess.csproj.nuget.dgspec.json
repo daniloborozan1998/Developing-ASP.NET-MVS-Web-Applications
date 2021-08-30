@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
         "projectName": "BookLibraryApp.DataAccess",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\BookLibraryApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj"
+              "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
         "projectName": "BookLibraryApp.Domain",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\BookLibraryApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\BookLibraryApp\\BookLibraryApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\BookLibraryApp\\BookLibraryApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
