@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BookLibraryApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "BookLibraryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryApp.DataAccess.dll": {}
+        }
+      },
+      "BookLibraryApp.Domain/1.0.0": {
+        "runtime": {
+          "BookLibraryApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookLibraryApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\bin\Debug\netcoreapp3.1\BookLibraryApp.Shared.deps.json
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\bin\Debug\netcoreapp3.1\BookLibraryApp.Shared.dll
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\bin\Debug\netcoreapp3.1\BookLibraryApp.Shared.pdb
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.dll
+C:\Users\Danilo Borozan\Desktop\BookLibraryApp\BookLibraryApp.Shared\obj\Debug\netcoreapp3.1\BookLibraryApp.Shared.pdb

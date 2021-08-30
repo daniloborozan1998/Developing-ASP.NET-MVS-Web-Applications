@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model BookLibraryApp.ViewModels.HomeViewModels.HomeIndexViewModel
+
+<div class="jumbotron" style="background: rgba(255, 120, 95, 0.6); ">
+    <h1 class="display-4" style="color: white; font-weight: bold;">Book Library!</h1>
+    <p class="lead" style="color: white">Welcome to our free collection of e-books, developed for all ages.</p>
+    <hr class="my-4" >
+    
+    <p class="lead">
+
+        <button type="button" class="btn btn-info">
+            <span class="badge badge-light">2 @*@Model.BookCount*@ </span> Books.
+        </button>
+        <button type="button" class="btn btn-info">
+            <span class="badge badge-light">20 @*@Model.ReservationCount*@ </span> Reservations.
+        </button>
+    </p>
+</div>
+

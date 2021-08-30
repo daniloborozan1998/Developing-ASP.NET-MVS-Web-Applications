@@ -1,0 +1,46 @@
+﻿@model BookLibraryApp.ViewModels.BookViewModels.BookDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4" style="color: white">Book Details</h2>
+</div>
+<br />
+<br />
+
+
+<div class="card" style="background: rgba(255,255,255,0.8)">
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col"><label asp-for="Name"></label></th>
+                <th scope="col"><label asp-for="Author"></label></th>
+                <th scope="col"><label asp-for="GenreBook"></label></th>
+                <th scope="col"><label asp-for="Price"></label></th>
+                <th scope="col"><label asp-for="Publisher"></label></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">@Model.Name</th>
+                <td>@Model.Author</td>
+                <td>>@Model.GenreBook</</td>
+                <td>>@Model.Price ден</</td>
+                <td>>@Model.Publisher</</td>
+            </tr>
+    
+            </tbody>
+        </table>
+    </div>
+</div>
+<br />
+
+<div class="row">
+    <div class="card" style="width: 18rem; margin-left:15px;">
+        <img class="card-img-top" src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/50/2018/11/06110356/hero.jpg" alt="Card image cap">
+        <div class="card-body" style="background: rgba(255,255,255,0.1)">
+            <h3 class="text-center">@Model.Name</h3>
+        </div>
+    </div>
+</div>
+
+<a asp-action="Index" class="btn btn-dark">Back/Cancel</a>

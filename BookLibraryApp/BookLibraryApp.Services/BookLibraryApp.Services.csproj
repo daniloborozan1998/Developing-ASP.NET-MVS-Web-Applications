@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookLibraryApp.DataAccess\BookLibraryApp.DataAccess.csproj" />
+    <ProjectReference Include="..\BookLibraryApp.Domain\BookLibraryApp.Domain.csproj" />
+    <ProjectReference Include="..\BookLibraryApp.Mapper\BookLibraryApp.Mapper.csproj" />
+    <ProjectReference Include="..\BookLibraryApp.Shared\BookLibraryApp.Shared.csproj" />
+    <ProjectReference Include="..\BookLibraryApp.ViewModels\BookLibraryApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

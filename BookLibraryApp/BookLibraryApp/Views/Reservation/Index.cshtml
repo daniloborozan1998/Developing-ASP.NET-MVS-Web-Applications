@@ -1,0 +1,41 @@
+﻿@model List<BookLibraryApp.ViewModels.ReservationsViewModel.ReservationListViewModel>
+
+    
+    <div class="text-center">
+        <a asp-controller="Reservation" asp-action="Create" class="btn btn-dark">Create reservation</a>
+        <h2 class="display-4" style="color: white">List of reservation:</h2>
+    </div>
+<br />
+
+
+<div class="row">
+    @foreach (var reservation in @Model)
+    {
+        <div class="card text-white  mb-3" style="max-width: 18rem; margin-left: 10px; background: rgba(255, 120, 95, 0.7);">
+            <h6>Reservation name:<h4>@reservation.ReservationName</h4></h6>
+            <div class="card-body">
+                <h5 class="card-title">Member: @reservation.MemberFullName</h5>
+                <h5 class="card-title">Book:</h5>
+                <ol>
+                    @foreach(var bookName in reservation.BookNames)
+                    {
+                        <li>@bookName</li>
+                    }
+                </ol>
+            </div>
+            <h6>Reservation date time: @reservation.DateTime</h6>
+            
+            <div class="btn-group" role="group" aria-label="Basic example">
+                <a asp-controller="Reservation" asp-action="Details" asp-route-id="@reservation.Id" class="btn btn-info">See details</a>
+                <a asp-controller="Reservation" asp-action="Edit" asp-route-id="@reservation.Id" class="btn btn-secondary">Edit reservation</a>
+                <a asp-controller="Reservation" asp-action="Delete" asp-route-id="@reservation.Id" class="btn btn-danger">Delete reservation</a>
+                
+            </div>
+
+        </div>
+    }
+</div>
+
+
+
+

@@ -1,0 +1,52 @@
+﻿@model BookLibraryApp.ViewModels.ReservationsViewModel.ReservationDetailsViewModel
+<div class="text-center">
+    <h2 class="display-4" style="color: white">Reservation Details</h2>
+</div>
+<br />
+
+<br />
+
+
+<div class="card" style="background: rgba(255,255,255,0.8)">
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col"><label asp-for="MemberFullName"></label></th>
+                <th scope="col"><label asp-for="ReservationName"></label></th>
+                <th scope="col"><label asp-for="DateTime"></label></th>
+                <th scope="col"><label asp-for="PaymentMethod"></label></th>
+                <th scope="col"><label asp-for="Price"></label></th>
+                <th scope="col"><label>Add Book</label></th>
+                
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">@Model.MemberFullName</th>
+                <td>@Model.ReservationName</td>
+                <td>@Model.DateTime</td>
+                <td>@Model.PaymentMethod</td>
+                <td>@Model.Price</td>
+                <td><a asp-action="AddBook" asp-route-id="@Model.Id" class="btn btn-dark">Add Book</a></td>
+            </tr>
+            
+            </tbody>
+        </table>
+    </div>
+</div>
+<br />
+
+<div class="row">
+    @foreach (var bookName in Model.BookNames)
+    {
+        <div class="card" style="width: 18rem; margin-left:15px;">
+            <img class="card-img-top" src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/50/2018/11/06110356/hero.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h3 class="text-center">@bookName</h3>
+            </div>
+        </div>
+    }
+</div>
+
+<a asp-action="Index" class="btn btn-dark">Back/Cancel</a>

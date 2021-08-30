@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BookLibraryApp.Services/1.0.0": {
+        "dependencies": {
+          "BookLibraryApp.DataAccess": "1.0.0",
+          "BookLibraryApp.Domain": "1.0.0",
+          "BookLibraryApp.Mapper": "1.0.0",
+          "BookLibraryApp.Shared": "1.0.0",
+          "BookLibraryApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryApp.Services.dll": {}
+        }
+      },
+      "BookLibraryApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "BookLibraryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryApp.DataAccess.dll": {}
+        }
+      },
+      "BookLibraryApp.Domain/1.0.0": {
+        "runtime": {
+          "BookLibraryApp.Domain.dll": {}
+        }
+      },
+      "BookLibraryApp.Mapper/1.0.0": {
+        "dependencies": {
+          "BookLibraryApp.Domain": "1.0.0",
+          "BookLibraryApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryApp.Mapper.dll": {}
+        }
+      },
+      "BookLibraryApp.Shared/1.0.0": {
+        "runtime": {
+          "BookLibraryApp.Shared.dll": {}
+        }
+      },
+      "BookLibraryApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "BookLibraryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookLibraryApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

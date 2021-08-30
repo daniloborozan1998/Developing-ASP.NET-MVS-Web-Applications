@@ -1,0 +1,34 @@
+﻿@model ReservationViewModel
+
+<h3>Edit reservations:</h3>
+
+<div class="row" style="padding: 50px; background: rgba(255, 120, 95, 0.6);">
+    <div class="col-md-6">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="ReservationName" class="custom-control-label"></label>
+                <input type="text" asp-for="ReservationName" class="form-control " placeholder="example name" required />
+
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentMethod" class="custom-control-label"></label>
+
+                <select class="form-control" asp-for="PaymentMethod" asp-items="Html.GetEnumSelectList<PaymentMethodEnums>()"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTime" class="custom-control-label"></label>
+                <input type="text" asp-for="DateTime" class="form-control" placeholder="dd-mm-yyyy  hh:mm" required />
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberId" class="custom-control-label"></label>
+                <select asp-for="MemberId" asp-items="@(new SelectList(ViewBag.Members, "Id", "FullName"))"></select>
+            </div>
+            
+                <button type="submit" class="btn btn-dark" value="Update">Update</button>
+                <a asp-action="Index"   class="btn btn-dark">Back/Cancel</a>
+            
+            
+        </form>
+    </div>
+</div>

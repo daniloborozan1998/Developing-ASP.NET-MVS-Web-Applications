@@ -1,0 +1,16 @@
+﻿@model BookReservationViewModel
+
+<h2>Add Book</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="AddBook" method="post">
+            <input type="hidden" asp-for="ReservationId" />
+            <div class="form-group">
+                <label asp-for="BookId" class="custom-control-label"></label>
+                <select class="form-control" asp-for="BookId" asp-items="@(new SelectList(ViewBag.Books, "Id", "Name"))"></select>
+            </div>
+            <input type="submit" value="Add"/>
+        </form>
+    </div>
+</div>

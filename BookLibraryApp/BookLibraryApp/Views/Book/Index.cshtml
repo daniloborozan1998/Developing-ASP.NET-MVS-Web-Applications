@@ -1,0 +1,36 @@
+﻿@model List<BookLibraryApp.ViewModels.BookViewModels.BookListViewModel>
+
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Book" class="btn btn-dark">Create Books</a>
+    <h2 class="display-4" style="color: white">List of books:</h2>
+</div>
+<br />
+
+<div class="row">
+    
+    <table class="table" style="background: rgba(255, 120, 95, 0.7);">
+        <thead>
+            <tr>
+                <th scope="col">Book Name:</th>
+                <th scope="col">Author</th>
+                <th scope="col">Genre</th>
+                <th scope="col">Price</th>
+                <th scope="col">Publisher</th>
+            </tr>
+        </thead>
+        @foreach (var book in @Model)
+        {
+            <tbody>
+                <tr>
+                    <th scope="row">@book.Name</th>
+                    <td>@book.Author</td>
+                    <td>@book.GenreBook</td>
+                    <td>@book.Price</td>
+                    <td>@book.Publisher</td>
+                    <td><a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id" style="color: aliceblue">See details</a></td>
+                </tr>
+            </tbody>
+        }
+    </table>
+</div>

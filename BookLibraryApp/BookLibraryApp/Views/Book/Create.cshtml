@@ -1,0 +1,54 @@
+﻿@model BookLibraryApp.ViewModels.BookViewModels.BookViewModel
+
+
+
+<div class="container" style="padding: 15px;">
+    <h2 style="color: white">Create Book:</h2>
+    <div class="row " style="background: rgba(255, 120, 95, 0.6); padding: 15px;">
+        <div class="col-md-6 col-md-offset-3 ">
+            <form asp-action="Create" method="post">
+                <div class="form-group">
+                    <label asp-for="Name" class="custom-control-label"></label>
+                    <input type="text" asp-for="Name" class="form-control" placeholder="Example name" required />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Author" class="custom-control-label"></label>
+                    <input type="text" asp-for="Author" class="form-control" placeholder="Example name" required/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="GenreBook" class="control-label"></label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <label class="input-group-text" for="inputGroupSelect01">Genre</label>
+                        </div>
+                        <select class="form-control" id="inputGroupSelect01" asp-for="GenreBook" asp-items="Html.GetEnumSelectList<GenreBook>()">
+                        </select>
+                    </div>
+                    
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <div class="input-group mb-3">
+                        
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">$</span>
+                        </div>
+                        <input type="text" class="form-control" asp-for="Price" aria-label="Amount " required/>
+                        <div class="input-group-append">
+                            <span class="input-group-text">.00</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label asp-for="Publisher" class="custom-control-label"></label>
+                    <input type="text" asp-for="Publisher" class="form-control" placeholder="example name" required />
+                </div>
+
+                <button type="submit" class="btn btn-dark">Create</button>
+                 <a asp-action="Index"   class="btn btn-dark">Back/Cancel</a>
+            </form>
+        </div>
+    </div>
+
+</div>
