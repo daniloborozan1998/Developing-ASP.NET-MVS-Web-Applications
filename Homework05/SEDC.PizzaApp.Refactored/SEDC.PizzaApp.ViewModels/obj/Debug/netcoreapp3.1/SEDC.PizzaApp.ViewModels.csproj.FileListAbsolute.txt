@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Danilo Borozan\Desktop\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb

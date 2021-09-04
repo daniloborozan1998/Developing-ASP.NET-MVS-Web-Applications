@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yib/sXZKXpdHflpXxCM9O1hH2STPapeOOta9lih8gPgBwkffR4XDJ6g9oYEWofuWZ3R3icaeUmJ9RSY2eitkvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo Borozan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
