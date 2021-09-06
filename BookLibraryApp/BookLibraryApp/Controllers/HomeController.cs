@@ -28,7 +28,7 @@ namespace BookLibraryApp.Controllers
             HomeIndexViewModel homeIndexViewModel = new HomeIndexViewModel();
             homeIndexViewModel.ReservationCount = _reservationService.GetAllReservation().Count;
             homeIndexViewModel.BookCount = _bookService.GetAllBook().Count;
-            return View();
+            return View(homeIndexViewModel);
         }
 
         public IActionResult Privacy()
