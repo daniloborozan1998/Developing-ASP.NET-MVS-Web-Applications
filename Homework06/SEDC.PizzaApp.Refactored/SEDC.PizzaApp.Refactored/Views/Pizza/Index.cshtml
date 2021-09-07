@@ -1,0 +1,30 @@
+﻿@model List<SEDC.PizzaApp.ViewModels.PizzaViewModels.PizzaListViewModel>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Pizza" class="btn">Create Pizza</a>
+    <h2 class="display-4">List of pizzas:</h2>
+</div>
+<br />
+
+<div class="row">
+    @foreach (var pizza in @Model)
+    {
+
+
+        <div class="card-white bg-primary mb-3" style="max-width:18rem;margin-left:18rem;margin-left:10px;color:white">
+            @if (pizza.IsOnPromotion)
+            {
+                <div class="card-header">The pizza is on promotion</div>
+            }
+            else
+            {
+                <div class="card-header">The pizza is not on promotion</div>
+            }
+            <div class="card-body">
+                <h5 class="card-title">Pizza Name: @pizza.Name</h5>
+            </div>
+            <a asp-controller="Pizza" asp-action="Details" asp-route-id="@pizza.Id" style="color:white">See details</a>
+        </div>
+    }
+
+</div>

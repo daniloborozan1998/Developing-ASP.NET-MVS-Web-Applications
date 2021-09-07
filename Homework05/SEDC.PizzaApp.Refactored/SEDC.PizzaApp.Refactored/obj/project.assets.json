@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
       "projectName": "SEDC.PizzaApp.Refactored",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -846,14 +846,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj"
             },
-            "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
             },
-            "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
             }
           }
         }

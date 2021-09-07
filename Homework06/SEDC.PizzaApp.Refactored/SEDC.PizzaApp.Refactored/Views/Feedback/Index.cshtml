@@ -1,0 +1,25 @@
+﻿@model List<SEDC.PizzaApp.ViewModels.FeedbackViewModel.FeedbackListViewModel>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Feedback" class="btn">Create feedback</a>
+    <h2 class="display-4">List of feedbacks:</h2>
+</div>
+<br />
+
+<div class="row">
+    @foreach (var feedback in @Model)
+    {
+
+
+        <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+
+            <div class="card-body">
+                <h5 class="card-title">User: @feedback.Name</h5>
+                <ul class="card-title">Email: @feedback.Email</ul>
+
+            </div>
+            <a asp-controller="Feedback" asp-action="Details" asp-route-id="@feedback.Id">See details</a>
+            <a asp-controller="Feedback" asp-action="Edit" asp-route-id="@feedback.Id">Edit feedback</a>
+            <a asp-controller="Feedback" asp-action="Delete" asp-route-id="@feedback.Id">Delete feedback</a>
+        </div>}
+</div>

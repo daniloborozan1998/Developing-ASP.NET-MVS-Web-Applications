@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
         "projectName": "SEDC.PizzaApp.Shared",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\Developing-ASP.NET-MVS-Web-Applications\\Homework05\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

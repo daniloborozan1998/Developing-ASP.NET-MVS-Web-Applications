@@ -1,0 +1,19 @@
+﻿@model List<OrderListViewModel> 
+
+<div class="row">
+    @foreach (OrderListViewModel order in Model)
+    {
+
+
+        <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+            
+            <div class="card-header">Id: @order.Id</div>
+            <div class="card-body">
+                <h5 class="card-title">User: @order.UserFullName</h5>
+                <ul>
+                    Delivered:  @order.Delivered
+                </ul>
+            </div>
+        </div>
+    }
+</div>
